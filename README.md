@@ -11,7 +11,7 @@ Hey, I’m a Software Engineering student who loves learning new ways to solve e
 ### Get in touch!
 Here's where to find me:
 <p>
-  <a href="www.linkedin.com/in/stella-henry-a2a183322/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/stella-henry-a2a183322/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.instagram.com/stellaa.henry/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>

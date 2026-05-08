@@ -3,11 +3,6 @@ Hey, I’m a Software Engineering student who loves learning new ways to solve e
 
 ---
 
-### I'm currently working on...
-- [A New Zealand Sign Language (NZSL) real-time recognition application which returns the translated message back to users](https://github.com/Stellaahenry/NZSL-Hand-Tracker-Translator)
-
----
-
 ### Get in touch!
 Here's where to find me:
 <p>

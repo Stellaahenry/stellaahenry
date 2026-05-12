@@ -7,6 +7,7 @@ Hey, I’m a Software Engineering student who loves learning new ways to solve e
 Here's where to find me:
 <p>
   <a href="https://www.linkedin.com/in/stella-henry-a2a183322/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:stella@theintrepid.co.nz"><img alt="Email" src="https://img.shields.io/badge/Email-Blue?style=for-the-badge&labelColor=d3e6ff&color=d3e6ff" /></a>
 </p>
 
 
